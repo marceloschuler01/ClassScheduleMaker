@@ -1,0 +1,2 @@
+class TimeWithoutSolutionError(Exception):
+    pass
